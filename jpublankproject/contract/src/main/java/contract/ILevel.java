@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * The Interface ILevel
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface ILevel extends IValuable {
 

@@ -1,7 +1,7 @@
 package contract;
 
 /**
- * @author Baptiste
+ * @author Rafik
  * size of the screen
  */
 public interface IDimention {

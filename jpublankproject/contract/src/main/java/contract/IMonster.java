@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface IMonster
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IMonster extends IAI, IValuable {
     /**

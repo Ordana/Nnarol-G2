@@ -1,7 +1,7 @@
 package contract;
 
 /**
- * @author Baptiste
+ * @author Rafik
  * Interface representing the entities of the level
  */
 public interface IEntity extends IElement {

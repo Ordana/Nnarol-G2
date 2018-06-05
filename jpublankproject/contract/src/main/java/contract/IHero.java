@@ -1,7 +1,7 @@
 package contract;
 
 /**
- *@author Baptiste
+ *@author Rafik
  * Interface Hero
  */
 public interface IHero extends IEntity {

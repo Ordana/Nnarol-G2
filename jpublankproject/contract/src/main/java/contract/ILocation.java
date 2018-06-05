@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface ILocation
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface ILocation {
 	

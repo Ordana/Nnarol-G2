@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface IAnimatedSprite
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IAnimatedSprite extends ISprite {
 

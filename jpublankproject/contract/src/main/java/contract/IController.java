@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface IController.
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IController {
 

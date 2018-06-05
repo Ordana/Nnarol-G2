@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface IAI
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IAI extends IEntity {
     AIType getAiType();

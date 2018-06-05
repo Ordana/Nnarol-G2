@@ -6,7 +6,7 @@ import java.util.Observable;
 /**
  * The Interface IModel.
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IModel{
 

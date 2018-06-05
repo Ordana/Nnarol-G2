@@ -3,7 +3,7 @@ package contract;
 /**
  * The Interface IItem
  *
- * @author Baptiste
+ * @author Rafik
  */
 public interface IItem extends IElement {
 }
